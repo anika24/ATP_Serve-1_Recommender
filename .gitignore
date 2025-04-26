@@ -1,1 +1,4 @@
 .DS_Store
+generated_datasets/
+mlp_results.csv
+wta_mlp_results.csv
