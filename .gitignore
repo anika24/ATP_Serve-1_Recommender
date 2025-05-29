@@ -1,4 +1,11 @@
 .DS_Store
-generated_datasets/
+generated_datasets/atp_all_rally_info.csv
+generated_datasets/wta_all_rally_info.csv
+generated_datasets/atp_features_0429.csv
+generated_datasets/wta_features_0429.csv
+generated_datasets/atp_features_0430.csv
+generated_datasets/wta_features_0430.csv
+generated_datasets/atp_features_0518.csv
+generated_datasets/wta_features_0518.csv
 mlp_results.csv
 wta_mlp_results.csv
